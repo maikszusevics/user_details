@@ -1,4 +1,4 @@
-# concatenation, casting, and methods in python
+# Concatenation, Casting, and Methods in python
 **Concatenation** in python is the combination of two or more strings. In this document, it will be used to combine several user inputs into one variable which can be displayed with correct grammar by use of python *methods*. It will also show how casting is used to convert data types of variables (e.g. integer --> string)
 
 #### Methods
@@ -26,7 +26,7 @@ print(legal_alcohol_check)
 
 
 
-## the following code uses concatenation, methods, and casting
+## The following code uses concatenation, methods, and casting
 ```
 # introduction
 print("hello user") 
