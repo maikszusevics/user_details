@@ -41,7 +41,7 @@ print("hello, " + name) #greeting user
 
 # asks user for address details to later concatenate
 street_name = input("please enter your street name: ") 
-house_number = input("please enter your house number: ")
+house_number = int(input("please enter your house number: "))
 postcode = input("please enter your postcode: ")
 
 # asks for course and salary
